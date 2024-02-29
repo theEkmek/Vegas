@@ -9,7 +9,7 @@ Kullanma talimatı indirilen dosyanın içindeki "BENİ OKU" adlı txt dosyasın
 
 
 
-![Static Badge](https://img.shields.io/badge/DOWNLOAD_V1.4-black?style=for-the-badge&logo=accenture&logoColor=white&label=%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%20%20%20&labelColor=grey&color=green&link=https://www.mediafire.com/file/k4d8yojjojbv0as/VEGAS_V1.4_ZULA.rar/file)
+![Static Badge](https://img.shields.io/badge/DOWNLOAD_V1.4-black?style=for-the-badge&logo=accenture&logoColor=white&label=%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%E2%80%8F%20%20%20&labelColor=grey&color=green&link=https://ay.link/ZyFnD)
 
 
 
